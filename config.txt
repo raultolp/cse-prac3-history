@@ -1,3 +1,4 @@
+LAST ADDITION
 core.repositoryformatversion=0
 core.filemode=false
 core.bare=false
