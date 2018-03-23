@@ -1,0 +1,6 @@
+commit cebfb97688ca33b26f53e7a05d15a9c1c39d983f
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+Date:   Tue Mar 20 14:08:43 2018 +0200
+
+    Added local configuration data
+
